@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Matius Celcius Sinaga",
+    "occupation": "Web App Developer",
+    "description": "A person who likes computer technology development and plays an active role in certain sections. Like on SEO and Web App. You can see what I've written at www.sibatakjalanjalan.com and www.enaknyakemana.com.",
+    "image": "profilepic.jpg",
+    "bio": "I'm currently developing several webs with social and educational purposes. Using Google's CMS, ReactJs, Javascript, jQuery and Styling (CSS + HTML and Material UI). Very happy if you can communicate with those of you who like technology and its development. Feel free to contact me right away!.",
+    "contactmessage": "I look forward to discussing the technology with you, contact me soon and will reply to you.",
+    "email": "matiussinaga29@gmail.com",
+    "phone": "*62819-7720-xxxx",
+    "address": {
+      "street": "Jalan Pemuda",
+      "city": "Pekanbaru",
+      "state": "RIAU",
+      "zip": "28292"
+    },
+    "website": "http://www.sibatakjalanjalan.com",
+    "resumedownload": "http://sibatakjalanjalan.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/matius.c.sinaga",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://id.linkedin.com/in/matius-celcius-sinaga-a917a7135",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/matiuscelciussinaga",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com › Nagaa27",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are the abilities that I have",
+    "education": [
+      {
+        "school": "Universitas Sumatera Utara",
+        "degree": "Diploma-Metrology and Instrument",
+        "graduated": "August 2017",
+        "description": "Studying the science of Metrology and Instrumentation and its application in life, society and its usefulness in the economy."
+      }
+    ],
+    "work": [
+      {
+        "company": "Genesis Digital Asia",
+        "title": "Web App Developer ",
+        "years": "Jul 2022 - Present",
+        "description": "Develop Web Apps using Javascript, ReactJS, CSS and jQuery. Currently I am handling projects from overseas clients. And at least it has handled more than 2 projects."
+      }
+    ],
+    "skills": [
+      {
+        "name": "SEO",
+        "level": "80%"
+      },
+      {
+        "name": "Content Writing (Indonesian)",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "jQuery",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SibatakJalanJalan",
+        "category": "Web blog for the development of customs and culture and tourism in North Sumatra and Indonesia globally",
+        "image": "sibatakjalanjalan.jpg",
+        "url": "https://www.sibatakjalanjalan.com"
+      },
+      {
+        "title": "EnaknyaKemana",
+        "category": "International and Global travel guide sites, you can find the latest tourist information here",
+        "image": "enaknyakemana.jpg",
+        "url": "http://www.enaknyakemana.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I'm very happy to work with MC Sinaga, it's very warm and gives me a new perspective.",
+        "user": "Steve Wazniac"
+      },
+      {
+        "text": "I cleared things I didn't understand about Indonesia and targeted content in that country. MC Sinaga is where you find content creation and web development in one body.!",
+        "user": "Calleb Doug"
+      }
+    ]
+  }
+}
